@@ -1,0 +1,15 @@
+E:\DAM\1DAM\Programacion\Bloque 8 - Programación Funcional\Ejercicios\Eventos\Ejercicio4\bin\Debug\net6.0\Ejercicio4.exe
+E:\DAM\1DAM\Programacion\Bloque 8 - Programación Funcional\Ejercicios\Eventos\Ejercicio4\bin\Debug\net6.0\Ejercicio4.deps.json
+E:\DAM\1DAM\Programacion\Bloque 8 - Programación Funcional\Ejercicios\Eventos\Ejercicio4\bin\Debug\net6.0\Ejercicio4.runtimeconfig.json
+E:\DAM\1DAM\Programacion\Bloque 8 - Programación Funcional\Ejercicios\Eventos\Ejercicio4\bin\Debug\net6.0\Ejercicio4.dll
+E:\DAM\1DAM\Programacion\Bloque 8 - Programación Funcional\Ejercicios\Eventos\Ejercicio4\bin\Debug\net6.0\Ejercicio4.pdb
+E:\DAM\1DAM\Programacion\Bloque 8 - Programación Funcional\Ejercicios\Eventos\Ejercicio4\obj\Debug\net6.0\Ejercicio4.csproj.AssemblyReference.cache
+E:\DAM\1DAM\Programacion\Bloque 8 - Programación Funcional\Ejercicios\Eventos\Ejercicio4\obj\Debug\net6.0\Ejercicio4.GeneratedMSBuildEditorConfig.editorconfig
+E:\DAM\1DAM\Programacion\Bloque 8 - Programación Funcional\Ejercicios\Eventos\Ejercicio4\obj\Debug\net6.0\Ejercicio4.AssemblyInfoInputs.cache
+E:\DAM\1DAM\Programacion\Bloque 8 - Programación Funcional\Ejercicios\Eventos\Ejercicio4\obj\Debug\net6.0\Ejercicio4.AssemblyInfo.cs
+E:\DAM\1DAM\Programacion\Bloque 8 - Programación Funcional\Ejercicios\Eventos\Ejercicio4\obj\Debug\net6.0\Ejercicio4.csproj.CoreCompileInputs.cache
+E:\DAM\1DAM\Programacion\Bloque 8 - Programación Funcional\Ejercicios\Eventos\Ejercicio4\obj\Debug\net6.0\Ejercicio4.dll
+E:\DAM\1DAM\Programacion\Bloque 8 - Programación Funcional\Ejercicios\Eventos\Ejercicio4\obj\Debug\net6.0\refint\Ejercicio4.dll
+E:\DAM\1DAM\Programacion\Bloque 8 - Programación Funcional\Ejercicios\Eventos\Ejercicio4\obj\Debug\net6.0\Ejercicio4.pdb
+E:\DAM\1DAM\Programacion\Bloque 8 - Programación Funcional\Ejercicios\Eventos\Ejercicio4\obj\Debug\net6.0\Ejercicio4.genruntimeconfig.cache
+E:\DAM\1DAM\Programacion\Bloque 8 - Programación Funcional\Ejercicios\Eventos\Ejercicio4\obj\Debug\net6.0\ref\Ejercicio4.dll
